@@ -1,3 +1,5 @@
+import MesaVerde from "./parks/MesaVerde";
+
 const trees = "Aspen and Pine";
 
 function wildlife() {
